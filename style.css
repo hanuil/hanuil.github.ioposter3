@@ -1,0 +1,40 @@
+body {
+    background-color:white;
+}
+
+div.poster{
+    background-color:rgb(106, 114, 223);
+    width:95%;
+}
+
+div.container{
+    display:flex;
+    flex-wrap:wrap;  
+}
+
+div.text{
+    font-size:120px;
+    font-family: 'Franklin Gothic Medium';
+    text-align:center;
+    transition:0.5s;
+
+}
+
+div.text.one{
+    font-size:65pt;
+}
+
+.w1-2{
+    width:70%;
+    font-size:40pt;
+}
+
+.w2-2{
+    width:50%;
+    font-size:80pt;
+}
+
+.w2-3{
+    width:65%;
+    size:120pt;
+}
